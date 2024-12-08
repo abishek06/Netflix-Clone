@@ -3,6 +3,8 @@ export const Image_URL =
 
 export const User_URL = "https://avatars.githubusercontent.com/u/9390789?v=4";
 
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
+
 export const options = {
   method: "GET",
   headers: {
